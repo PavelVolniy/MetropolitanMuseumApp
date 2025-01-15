@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MetropolitanMuseumApp</string>
+    <string name="base_url">https://collectionapi.metmuseum.org</string>
+    <string name="artist_title">Artist</string>
+    <string name="department_title">Department</string>
+    <string name="medium_title">Medium</string>
+    <string name="dimensions_title">Dimensions</string>
+    <string name="click_back_button_toast">On click back button</string>
+    <string name="click_resize_button_toast">On click resize button</string>
+</resources>
